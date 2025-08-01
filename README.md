@@ -4,7 +4,7 @@
 A Data Science enthusiast passionate about solving real-world problems using Machine Learning, AI, and storytelling through data.
 </p>
 
---
+<hr>
 
 ### 🔎 About Me
 
@@ -16,7 +16,7 @@ A Data Science enthusiast passionate about solving real-world problems using Mac
 - 🧠 Passionate about AI, visualizations, and impactful solutions  
 - 🔥 Fun Fact: I start small with data, but somehow end up building entire dashboards in Streamlit 😄
 
---
+<hr>
 
 ### 🚀 Projects
 
@@ -24,7 +24,7 @@ A Data Science enthusiast passionate about solving real-world problems using Mac
 **🌿 Plant Disease Detection** — CNN-based crop disease predictor with multilingual output and weather API integration.  
 **🥛 Dairy Management System** — Web app for milk tracking and farmer payments using PHP, MySQL, and HTML/CSS.
 
---
+<hr>
 
 ### 💻 I Code With
 
@@ -39,16 +39,19 @@ A Data Science enthusiast passionate about solving real-world problems using Mac
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/flask/flask-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" width="30"/>
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
+  <img src="https://img.shields.io/badge/Eclipse-2C2255?style=flat&logo=eclipseide&logoColor=white" alt="Eclipse"/>
+  <img src="https://img.shields.io/badge/XAMPP-FB7A24?style=flat&logo=xampp&logoColor=white" alt="XAMPP"/>
+  <img src="https://img.shields.io/badge/TurboC-blue?style=flat" alt="Turbo C"/>
 </p>
 
---
+<hr>
 
 ### 📫 Let's Connect
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/divya-ravindra-gaikwad)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:divyaravindragaikwad@gmail.com)
 
----
+<hr>
 
 <p align="center">
 ✨ Learning • Building • Growing — One project at a time ✨
