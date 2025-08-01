@@ -1,26 +1,30 @@
-<h2 align="center">Hi there 👋 I'm Divya Gaikwad</h2>
+<h1 align="center">Hey 👋 I'm Divya Gaikwad</h1>
 
 <p align="center">
-🎓 M.Sc. Data Science @ Fergusson College, Pune | 🤖 AI & ML Enthusiast | 📊 Dashboard Creator | 🧠 Project Builder  
+A Data Science enthusiast passionate about solving real-world problems using Machine Learning, AI, and storytelling through data.
 </p>
 
----
+--
 
-### 🔍 About Me
+### 🔎 About Me
 
-- 🧠 Passionate about solving real-world problems using AI and data  
-- 🌱 Currently working on: **Multilingual YouTube Video Summarizer** using Whisper + Gemini  
-- 📊 Love turning raw data into clean, interactive dashboards with Tableau, Power BI, and Streamlit  
+- 🎓 M.Sc. Data Science Student @ Fergusson College, Pune  
+- 💻 Bachelor's in Computer Science (8.86 CGPA)  
+- 🔬 Currently working on: **Multilingual YouTube Video Summarizer**  
+- 🤖 Learning: Machine Learning Algorithms & NLP  
+- 🌐 Love to visualize complex data stories using Power BI, Tableau, and Streamlit  
+- 🧠 Passionate about AI, visualizations, and impactful solutions  
+- 🔥 Fun Fact: I start small with data, but somehow end up building entire dashboards in Streamlit 😄
 
----
+--
 
-### 🚀 Projects (2-line summaries)
+### 🚀 Projects
 
-- 🎥 **YouTube Summarizer**: Converts videos into interactive, structured summaries using Whisper + Gemini API.  
-- 🌿 **Plant Disease Detection**: CNN model identifies plant diseases (92% accuracy), integrated with weather data & Gemini.  
-- 🥛 **Dairy Management System**: Web app for farmer registration, milk tracking & fat-based payments using PHP + MySQL.
+**🎥 YouTube Summarizer** — Converts videos into structured summaries with Q&A using Whisper + Gemini.  
+**🌿 Plant Disease Detection** — CNN-based crop disease predictor with multilingual output and weather API integration.  
+**🥛 Dairy Management System** — Web app for milk tracking and farmer payments using PHP, MySQL, and HTML/CSS.
 
----
+--
 
 ### 💻 I Code With
 
@@ -37,20 +41,11 @@
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" width="30"/>
 </p>
 
----
-
-### 📈 GitHub Stats
-
-<p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=divya-gaikwad&show_icons=true&theme=radical" width="350"/>
-  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=divya-gaikwad&layout=compact&theme=radical" width="300"/>
-</p>
-
----
+--
 
 ### 📫 Let's Connect
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/divya-ravindra-gaikwad)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-blue?style=flat&logo=linkedin)](https://linkedin.com/in/divya-ravindra-gaikwad)  
 [![Gmail](https://img.shields.io/badge/Gmail-red?style=flat&logo=gmail)](mailto:divyaravindragaikwad@gmail.com)
 
 ---
