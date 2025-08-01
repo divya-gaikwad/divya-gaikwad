@@ -54,5 +54,5 @@ A Data Science enthusiast passionate about solving real-world problems using Mac
 <hr>
 
 <p align="center">
-✨ Learning • Building • Growing — One project at a time ✨
+✨ Learning • Building • Growing ✨
 </p>
