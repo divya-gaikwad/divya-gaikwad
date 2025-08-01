@@ -8,13 +8,13 @@ A Data Science enthusiast passionate about solving real-world problems using Mac
 
 ### 🔎 About Me
 
-- 🎓 M.Sc. Data Science Student @ Fergusson College, Pune  
-- 💻 Bachelor's in Computer Science (8.86 CGPA)  
-- 🔬 Currently working on: **Multilingual YouTube Video Summarizer**  
-- 🤖 Learning: Machine Learning Algorithms & NLP  
-- 🌐 Love to visualize complex data stories using Power BI, Tableau, and Streamlit  
-- 🧠 Passionate about AI, visualizations, and impactful solutions  
-- 🔥 Fun Fact: I start small with data, but somehow end up building entire dashboards in Streamlit 😄
+🎓 M.Sc. Data Science Student @ Fergusson College, Pune  
+💻 Bachelor's in Computer Science (8.86 CGPA)  
+ 🔬 Currently working on: **Multilingual YouTube Video Summarizer**  
+ 🤖 Learning: Machine Learning Algorithms & NLP  
+ 🌐 Love to visualize complex data stories using Power BI, Tableau, and Streamlit  
+ 🧠 Passionate about AI, visualizations, and impactful solutions  
+🔥 Fun Fact: I start small with data, but somehow end up building entire dashboards in Streamlit 😄
 
 <hr>
 
