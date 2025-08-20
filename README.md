@@ -8,7 +8,7 @@ A Data Science enthusiast passionate about solving real-world problems using Mac
 
 ### 🔎 About Me
 
-🎓 M.Sc. Data Science Student @ Fergusson College, Pune  
+🎓 M.Sc. Data Science Student @ Fergusson College, Pune (9.18 CGPA) 
 💻 Bachelor's in Computer Science (8.86 CGPA)  
  🔬 Currently working on: **Multilingual YouTube Video Summarizer**  
  🤖 Learning: Machine Learning Algorithms & NLP  
